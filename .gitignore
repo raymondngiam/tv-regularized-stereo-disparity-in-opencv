@@ -1,0 +1,9 @@
+# JetBrains IDEs: 
+.idea/
+
+# Clion-CMake
+cmake-build-*/
+
+[Bb]uild
+
+[Ii]nstall
